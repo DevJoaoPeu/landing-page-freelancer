@@ -1,7 +1,185 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: "Protest Riot", sans-serif;
   font-weight: 400;
+  text-decoration: none;
+}
+
+.header {
+  background-color: rgb(28, 28, 28);
+  text-align: center;
+  padding: 10px;
+}
+
+.logo {
+  width: 140px;
+}
+
+.div-container{
+  width: 270px;
+  border-radius: 10px;
+}
+
+.div-container img{
+  width: 270px;
+  height: 320px;
+  border-radius: 10px;
+}
+
+.div-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  background-color: #171717;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 1);
+  color: #fff;
+}
+
+.titulo-01 {
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.size,
+.price {
+  font-size: 22px;
+}
+
+.price, .size{
+  border: 2px dashed #FFD700;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.container-imagens {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3rem 0 ;
+  justify-items: center;
+  max-width: 90%;
+  margin: auto;
+}
+
+.btn-wpp {
+  display: flex;
+  margin: 4rem auto;
+  font-size: 1.7rem;
+  padding: 10px 40px;
+  background-color: #292929;
+  border-radius: 10px;
+}
+
+.btn-wpp a, .btn-wpp-2 a {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: #ffffff;
+}
+
+.btn-wpp-2 {
+  display: flex;
+  font-size: 1.7rem;
+  padding: 10px 40px;
+  background-color: #3f3c3c;
+  border-radius: 10px;
+}
+
+.section-4{
+  max-width: 80%;
+  margin: auto;
+  padding-bottom: 4rem;
+}
+
+.section-4 h2{
+  margin: 1rem 0;
+}
+
+.section-4 h3{
+  margin-bottom: 2rem;
+}
+
+footer {
+  background-color: rgb(28, 28, 28);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 2rem;
+  padding: 1.5rem;
+}
+
+.redes-sociais{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 22px;
+}
+
+@media screen and (max-width: 692px) {
+ .header{
+  width: 100%;
+ }
+
+ .logo {
+  width: 80px;
+ }
+
+ .titulo-01{
+  font-size: 13px;
+  padding: 2rem;
+ }
+
+ .div-container {
+  width: 160px;
+ }
+
+ .div-container img{
+  width: 160px;
+  height: 200px;
+ }
+
+ .size, .price {
+  font-size: .7rem;
+ }
+
+ .container-imagens{
+  grid-template-columns: repeat(2, 1fr);
+ }
+
+ .btn-wpp a {
+  font-size: 17px;
+ }
+
+ .btn-wpp-2{
+  font-size: 15px;
+ }
+
+ footer h1{
+  font-size: 22px;
+ }
+
+}
+
+@media screen and (max-width: 1310px) {
+  .container-imagens{
+    grid-template-columns: repeat(3, 1fr);
+   }
+}
+
+@media screen and (max-width: 1000px) {
+  .container-imagens{
+    grid-template-columns: repeat(2, 1fr);
+   }
+}
+
+@media screen and (max-width: 410px) {
+  .container-imagens{
+    grid-template-columns: repeat(1, 1fr);
+   }
 }
