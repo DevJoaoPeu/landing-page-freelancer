@@ -41,82 +41,82 @@ function App() {
         </div>
         <div className="container-imagens animationTop">
           <div className="div-container">
-            <img src="../public/sandalia-01.jpg" alt="s-01" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-01.jpg?raw=true" alt="s-01" />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-02.jpg" alt="s-02" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-02.jpg?raw=true" alt="s-02" />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-03.jpg" alt="s-03" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-03.jpg?raw=true" alt="s-03" />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-04.jpg" alt="s-04" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-04.jpg?raw=true" alt="s-04" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-05.jpg" alt="s-05" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-05.jpg?raw=true" alt="s-05" />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-06.jpg" alt="s-06" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-06.jpg?raw=true" alt="s-06" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 75,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-07.jpg" alt="s-07" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-07.jpg?raw=true" alt="s-07" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-08.jpg" alt="s-08" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-08.jpg?raw=true" alt="s-08" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-09.jpg" alt="s-09" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-09.jpg?raw=true" alt="s-09" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-10.jpg" alt="s-10" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-10.jpg?raw=true" alt="s-10" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-11.jpg" alt="s-11" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-11.jpg?raw=true" alt="s-11" />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-12.jpg" alt="s-12" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-12.jpg?raw=true" alt="s-12" />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-13.jpg" alt="s-13" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-13.jpg?raw=true" alt="s-13" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-14.jpg" alt="s-14" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-14.jpg?raw=true" alt="s-14" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-16.jpg" alt="s-16" />
+            <img src=".https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-16.jpg?raw=true" alt="s-16" />
             <span className="size">Nº disponíveis 33/34</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-17.jpg" alt="s-17" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-17.jpg?raw=true" alt="s-17" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 80,00</span>
           </div>
