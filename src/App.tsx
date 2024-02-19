@@ -111,7 +111,7 @@ function App() {
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src=".https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-16.jpg?raw=true" alt="s-16" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-16.jpg?raw=true" alt="s-16" />
             <span className="size">Nº disponíveis 33/34</span>
             <span className="price">R$ 80,00</span>
           </div>
@@ -121,27 +121,27 @@ function App() {
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-18.jpg" alt="s-18" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-18.jpg?raw=true" alt="s-18" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-19.jpg" alt="s-19" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-19.jpg?raw=true" alt="s-19" />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-20.jpg" alt="s-20" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-20.jpg?raw=true" alt="s-20" />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-21.jpg" alt="s-21" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-21.jpg?raw=true" alt="s-21" />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/sandalia-15.jpg" alt="s-15" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-15.jpg?raw=true" alt="s-15" />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 90,00</span>
           </div>
@@ -158,32 +158,32 @@ function App() {
         </div>
         <div className="container-imagens">
           <div className="div-container">
-            <img src="../public/caneta-01.jpg" alt="s-01" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-01.jpg?raw=true" alt="s-01" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 7,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/caneta-02.jpg" alt="s-02" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-02.jpg?raw=true" alt="s-02" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 8,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/caneta-03.jpg" alt="s-03" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-03.jpg?raw=true" alt="s-03" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/caneta-04.jpg" alt="s-04" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-04.jpg?raw=true" alt="s-04" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 8,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/caneta-05.jpg" alt="s-05" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-05.jpg?raw=true" alt="s-05" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 4,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/caneta-06.jpg" alt="s-06" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-06.jpg?raw=true" alt="s-06" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 4,00</span>
           </div>
