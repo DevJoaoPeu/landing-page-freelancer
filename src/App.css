@@ -121,6 +121,10 @@ footer {
   font-size: 22px;
 }
 
+.redes-sociais a{
+ color: #fff;
+}
+
 @media screen and (max-width: 692px) {
  .header{
   width: 100%;
