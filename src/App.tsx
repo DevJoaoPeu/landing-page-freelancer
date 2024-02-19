@@ -31,7 +31,7 @@ function App() {
       <header className="header">
         <img
           className="logo animationTop"
-          src="../public/logo.png"
+          src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/logo.png?raw=true"
           alt="s-01"
         />
       </header>
@@ -282,7 +282,7 @@ function App() {
       <footer>
         <img
           className="logo animationLeft"
-          src="../public/logo.png"
+          src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/logo.png?raw=true"
           alt="logo"
         />
 
