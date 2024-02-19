@@ -1,7 +1,6 @@
 import { useEffect } from "react";
 import "./App.css";
 import { FaInstagram, FaWhatsapp } from "react-icons/fa";
-import { HiOutlineMail } from "react-icons/hi";
 import ScrollReveal from "scrollreveal";
 
 function App() {
