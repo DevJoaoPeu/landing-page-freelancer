@@ -41,107 +41,170 @@ function App() {
         </div>
         <div className="container-imagens animationTop">
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-01.jpg?raw=true" alt="s-01" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-01.jpg?raw=true"
+              alt="s-01"
+            />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-02.jpg?raw=true" alt="s-02" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-02.jpg?raw=true"
+              alt="s-02"
+            />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-03.jpg?raw=true" alt="s-03" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-03.jpg?raw=true"
+              alt="s-03"
+            />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-04.jpg?raw=true" alt="s-04" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-04.jpg?raw=true"
+              alt="s-04"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-05.jpg?raw=true" alt="s-05" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-05.jpg?raw=true"
+              alt="s-05"
+            />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-06.jpg?raw=true" alt="s-06" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-06.jpg?raw=true"
+              alt="s-06"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 75,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-07.jpg?raw=true" alt="s-07" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-07.jpg?raw=true"
+              alt="s-07"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-08.jpg?raw=true" alt="s-08" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-08.jpg?raw=true"
+              alt="s-08"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-09.jpg?raw=true" alt="s-09" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-09.jpg?raw=true"
+              alt="s-09"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-10.jpg?raw=true" alt="s-10" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-10.jpg?raw=true"
+              alt="s-10"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-11.jpg?raw=true" alt="s-11" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-11.jpg?raw=true"
+              alt="s-11"
+            />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-12.jpg?raw=true" alt="s-12" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-12.jpg?raw=true"
+              alt="s-12"
+            />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-13.jpg?raw=true" alt="s-13" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-13.jpg?raw=true"
+              alt="s-13"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-14.jpg?raw=true" alt="s-14" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-14.jpg?raw=true"
+              alt="s-14"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-16.jpg?raw=true" alt="s-16" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-16.jpg?raw=true"
+              alt="s-16"
+            />
             <span className="size">Nº disponíveis 33/34</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-17.jpg?raw=true" alt="s-17" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-17.jpg?raw=true"
+              alt="s-17"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 80,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-18.jpg?raw=true" alt="s-18" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-18.jpg?raw=true"
+              alt="s-18"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-19.jpg?raw=true" alt="s-19" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-19.jpg?raw=true"
+              alt="s-19"
+            />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-20.jpg?raw=true" alt="s-20" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-20.jpg?raw=true"
+              alt="s-20"
+            />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 90,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-21.jpg?raw=true" alt="s-21" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-21.jpg?raw=true"
+              alt="s-21"
+            />
             <span className="size">Nº disponíveis 37/38</span>
             <span className="price">R$ 70,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-15.jpg?raw=true" alt="s-15" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/sandalia-15.jpg?raw=true"
+              alt="s-15"
+            />
             <span className="size">Nº disponíveis 35/36</span>
             <span className="price">R$ 90,00</span>
           </div>
@@ -158,32 +221,50 @@ function App() {
         </div>
         <div className="container-imagens">
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-01.jpg?raw=true" alt="s-01" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-01.jpg?raw=true"
+              alt="s-01"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 7,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-02.jpg?raw=true" alt="s-02" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-02.jpg?raw=true"
+              alt="s-02"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 8,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-03.jpg?raw=true" alt="s-03" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-03.jpg?raw=true"
+              alt="s-03"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-04.jpg?raw=true" alt="s-04" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-04.jpg?raw=true"
+              alt="s-04"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 8,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-05.jpg?raw=true" alt="s-05" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-05.jpg?raw=true"
+              alt="s-05"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 4,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-06.jpg?raw=true" alt="s-06" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/caneta-06.jpg?raw=true"
+              alt="s-06"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 4,00</span>
           </div>
@@ -200,62 +281,98 @@ function App() {
         </div>
         <div className="container-imagens">
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-01.jpg?raw=true" alt="s-01" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-01.jpg?raw=true"
+              alt="s-01"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-02.jpg?raw=true" alt="s-02" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-02.jpg?raw=true"
+              alt="s-02"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-03.jpg?raw=true" alt="s-03" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-03.jpg?raw=true"
+              alt="s-03"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-04.jpg?raw=true" alt="s-04" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-04.jpg?raw=true"
+              alt="s-04"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-05.jpg?raw=true" alt="s-05" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-05.jpg?raw=true"
+              alt="s-05"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-08.jpg?raw=true" alt="s-08" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-08.jpg?raw=true"
+              alt="s-08"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-09.jpg?raw=true" alt="s-09" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-09.jpg?raw=true"
+              alt="s-09"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-10.jpg?raw=true" alt="s-10" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-10.jpg?raw=true"
+              alt="s-10"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-11.jpg?raw=true" alt="s-11" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-11.jpg?raw=true"
+              alt="s-11"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-12.jpg?raw=true" alt="s-12" />
+            <img
+              src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-12.jpg?raw=true"
+              alt="s-12"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://raw.githubusercontent.com/DevJoaoPeu/landing-page-freelancer/main/public/chaveiro-13.jpg" alt="s-13" />
+            <img
+              src="https://raw.githubusercontent.com/DevJoaoPeu/landing-page-freelancer/main/public/chaveiro-13.jpg"
+              alt="s-13"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="https://raw.githubusercontent.com/DevJoaoPeu/landing-page-freelancer/main/public/chaveiro-06.jpg" alt="s-06" />
+            <img
+              src="https://raw.githubusercontent.com/DevJoaoPeu/landing-page-freelancer/main/public/chaveiro-06.jpg"
+              alt="s-06"
+            />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
@@ -289,13 +406,14 @@ function App() {
         <h1 className="animationLeft">Entre em contato</h1>
         <div className="redes-sociais animationLeft">
           <div>
-            <FaWhatsapp /> +11 998956020
+            <a href="https://api.whatsapp.com/send?phone=5511998956020&text=Ol%C3%A1,%20gostaria%20de%20encomendar%20uma%20sand%C3%A1lia%20personalizada!">
+              <FaWhatsapp /> +11 998956020
+            </a>
           </div>
           <div>
-            <FaInstagram /> @rmsandalias27
-          </div>
-          <div>
-            <HiOutlineMail /> Email
+            <a href="https://www.instagram.com/rmsandalias27?igsh=NTc4MTIwNjQ2YQ==">
+              <FaInstagram /> @rmsandalias27
+            </a>
           </div>
         </div>
       </footer>
