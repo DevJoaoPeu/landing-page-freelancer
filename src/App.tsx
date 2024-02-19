@@ -200,62 +200,62 @@ function App() {
         </div>
         <div className="container-imagens">
           <div className="div-container">
-            <img src="../public/chaveiro-01.jpg" alt="s-01" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-01.jpg?raw=true" alt="s-01" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-02.jpg" alt="s-02" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-02.jpg?raw=true" alt="s-02" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-03.jpg" alt="s-03" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-03.jpg?raw=true" alt="s-03" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-04.jpg" alt="s-04" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-04.jpg?raw=true" alt="s-04" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-05.jpg" alt="s-05" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-05.jpg?raw=true" alt="s-05" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-08.jpg" alt="s-08" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-08.jpg?raw=true" alt="s-08" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-09.jpg" alt="s-09" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-09.jpg?raw=true" alt="s-09" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-10.jpg" alt="s-10" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-10.jpg?raw=true" alt="s-10" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-11.jpg" alt="s-11" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-11.jpg?raw=true" alt="s-11" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-12.jpg" alt="s-12" />
+            <img src="https://github.com/DevJoaoPeu/landing-page-freelancer/blob/main/public/chaveiro-12.jpg?raw=true" alt="s-12" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-13.jpg" alt="s-13" />
+            <img src="https://raw.githubusercontent.com/DevJoaoPeu/landing-page-freelancer/main/public/chaveiro-13.jpg" alt="s-13" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
           <div className="div-container">
-            <img src="../public/chaveiro-06.jpg" alt="s-06" />
+            <img src="https://raw.githubusercontent.com/DevJoaoPeu/landing-page-freelancer/main/public/chaveiro-06.jpg" alt="s-06" />
             <span className="size">Preço por unidade</span>
             <span className="price">R$ 10,00</span>
           </div>
